@@ -1,7 +1,7 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
 html{
-	background-color: #FFB202;
+	background-color: #fcfcfc;
 }
 
 body{
@@ -15,13 +15,15 @@ body{
 	box-sizing:border-box;
 	box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.15);
 	height: 80px;
-	background-color: #FDFF45;
+	background-color: #FDFF88;
 }
 
 .cabecalho-leve .cabecalho-limite {
 	max-width: 1200px;
 	text-align: center;
 	margin: 0 auto;
+	margin-left: 150px;
+	margin-right: 150px;
 }
 
 /* Logo */
@@ -70,7 +72,8 @@ body{
 	height: 2000px;
 	width: 500px;
 	background-color: #0C2BA8;
-	margin-left: 50px;
+	margin-left: 150px;
+	margin-right: 150px;
 
 }
 
